@@ -1,0 +1,42 @@
+1.Python for Everybody Specialization
+2.Mathematics for Machine Learning: Linear Algebra
+3.Mathematics for Machine Learning: Multivariate Calculus
+4.Basic Statistics by University of Amsterdam
+5.Inferential Statistics by University of Amsterdam
+6.Mathematics for Machine Learning: PCA
+7.Exploratory Data Analysis using Kaggle/Analytics Vidhya or blogs 
+(https://www.analyticsvidhya.com/blog/2015/04/comprehensive-guide-data-exploration-sas-using-python-numpy-scipy-matplotlib-pandas/)
+(https://www.analyticsvidhya.com/blog/2015/05/data-visualization-python/)
+8.Hypothesis Testing (Udemy)
+9.SQL and Advanced SQL
+10.Machine Learning (14 Algorithms as per Analytics Vidya)(March Mid - March End)
+11.Deep Learning Specialization (Feb-March Mid)
+12.Develop Models using Keras/Tensorflow based on udemy courses(Feb-March Mid)
+13.Implement Research Papers based on Deep Learning(Feb-March Mid)
+
+Priority 1:
+-----------
+11.Deep Learning Specialization (Feb-March Mid)
+12.Develop Models using Keras/Tensorflow based on udemy courses(Feb-March Mid)
+13.Implement Research Papers based on Deep Learning(Feb-March Mid)
+
+Priority 2:
+-----------
+10.Machine Learning (14 Algorithms as per Analytics Vidya)(March Mid - March End)
+7.Exploratory Data Analysis using Kaggle/Analytics Vidhya or blogs (March Mid - March End)
+(https://www.analyticsvidhya.com/blog/2015/04/comprehensive-guide-data-exploration-sas-using-python-numpy-scipy-matplotlib-pandas/)
+(https://www.analyticsvidhya.com/blog/2015/05/data-visualization-python/)
+
+Priority 3: (April-May Mid)
+-----------
+2.Mathematics for Machine Learning: Linear Algebra
+3.Mathematics for Machine Learning: Multivariate Calculus
+4.Basic Statistics by University of Amsterdam
+5.Inferential Statistics by University of Amsterdam
+6.Mathematics for Machine Learning: PCA
+8.Hypothesis Testing (Udemy)
+
+Priority 4:(May Mid-June 1st Week)
+------------
+1.Python for Everybody Specialization
+9.SQL and Advanced SQL
